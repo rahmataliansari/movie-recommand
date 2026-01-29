@@ -4,7 +4,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = "https://movie-rec-466x.onrender.com"
+API_BASE = "https://movie-rec-466x.onrender.com" or "https://movie-recommand-recod.onrender.com/" or "http://127.0.0.1:8000"
 # API_BASE = "http://127.0.0.1:8000"   # local use ke liye
 
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
